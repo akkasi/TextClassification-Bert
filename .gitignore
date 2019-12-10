@@ -1,3 +1,6 @@
 #Notebook
+**/logs
+*.log
+
 *.ipynb
 .ipynb_checkpoints/

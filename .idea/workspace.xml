@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b053b5f4-b58c-408f-ba39-19843bfe1e2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/textClassification.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/textClassification-BERT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/amazon_cells_labelled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/imdb_labelled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/yelp_labelled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textClassification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1575897153609</updated>
     </task>
+    <task id="LOCAL-00001" summary="First version of text classification with BERT">
+      <created>1575990913670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575990913670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First version of text classification with BERT" />
+    <option name="LAST_COMMIT_MESSAGE" value="First version of text classification with BERT" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2406" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575988574854">
@@ -101,6 +96,10 @@
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
     <state x="2632" y="175" width="619" height="800" key="#textClassification/67.27.1853.1053/1920.0.2048.1152@1920.0.2048.1152" timestamp="1575897646099" />
+    <state x="2531" y="166" width="822" height="818" key="CommitChangelistDialog2" timestamp="1575990913611">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state x="2531" y="166" width="822" height="818" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.2048.1152@1920.0.2048.1152" timestamp="1575990913611" />
     <state width="2025" height="311" key="GridCell.Tab.0.bottom" timestamp="1575990438551">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
@@ -121,5 +120,9 @@
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
     <state x="2436" y="134" width="1016" height="738" key="SettingsEditor/67.27.1853.1053/1920.0.2048.1152@1920.0.2048.1152" timestamp="1575988717524" />
+    <state x="2542" y="307" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1575990972398">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state x="2542" y="307" width="800" height="536" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.2048.1152@1920.0.2048.1152" timestamp="1575990972398" />
   </component>
 </project>
